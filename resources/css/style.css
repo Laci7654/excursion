@@ -1,2 +1,6 @@
-git remote add origin git@github.com:Laci7654/excursion.git
-git push -u origin master
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: Veranda, Geneva, Tahoma, sans-serif;
+
+}
